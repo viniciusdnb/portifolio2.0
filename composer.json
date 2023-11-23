@@ -1,0 +1,18 @@
+{
+    "name": "viniciusdnd/portifolio2.0",
+    "description": "portifolio para divulgacao de conhecimento",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vinicius Henrique costa da silva",
+            "email": "viniciusdnb@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "viniciusdnb\\portifolio\\":"src",
+            "viniciusdnb\\public\\":"public"
+        }
+    },
+    "require": {}
+}

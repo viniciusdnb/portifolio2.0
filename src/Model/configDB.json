@@ -1,0 +1,18 @@
+{
+    "DB":
+    {
+        "DB_DRIVER":"mysql",
+		"DB_HOST":"localhost",
+		"DB_USER":"root",
+		"DB_PASS":"",
+		"DB_NAME":"db_portifolio"
+    },
+    "DBProd":
+    {
+        "DB_DRIVER":"mysql",
+		"DB_HOST":"localhost",
+		"DB_USER":"havetech_master",
+		"DB_PASS":"S6@ch5gDP5#s9Tu1",
+		"DB_NAME":"db_havetech"
+    }
+}
